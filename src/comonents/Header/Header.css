@@ -1,0 +1,11 @@
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+/* active link set kora ta dekhbo  */
