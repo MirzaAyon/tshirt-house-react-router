@@ -26,3 +26,27 @@ function App() {
 }
 
 export default App;
+
+
+/*quiz
+5 const array = [“beautiful” , “nice”, “awesome”, ”beauty” ]  
+const result =  array.includes(“bea”)
+What will be the output of the result?
+ans: You have selected "[ “beautiful” , “beauty” ]" but correct answer is "false".
+
+6
+What is the correct way to delete the data from the above state?(think carefully)
+
+const [data , setData] = useState( [ {name: “Chokina , tui amk bhule geso
+  ans: You have selected "setData(false)" but correct answer is "setData( [] )".
+
+
+  8
+  const admin = false;
+   { admin ? </ Admin> : </User> }
+What do you think which one will be rendered to the UI?
+ans:You have selected "</Admin>" but correct answer is "</User>".
+
+
+
+*/
